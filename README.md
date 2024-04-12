@@ -1,6 +1,6 @@
 # 2023 Onseason
 
-![Robot Image](20230420165309_IMG_2225.jpg)
+![Robot Image](/20230420165309_IMG_2225.jpg)
 
 ---
 
